@@ -11,7 +11,7 @@ Tech and Technique I used in back-end
 NodeJs, ExpressJS, MongoDB
 Send Mail Using Node Mailer to Verify the Mail and login
 Read and Write Image in Local
-Protected Route validation
+Protected Route validations
 Express HandleBars
 Verify Route with JWT
 
